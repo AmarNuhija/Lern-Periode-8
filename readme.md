@@ -1,21 +1,22 @@
-# Lern-Periode 5
+# Lern-Periode 8
 
-23.4 bis 25.6.2024
+17.1 bis 24.1.2025
 
 ## Grob-Planung
 
-1. Wo stehen Sie mit Ihren Noten? In welchen Modulen waren Sie besonders stark; in welchen sind die ungenügend? Welche davon sind besonders wichtig?
-4. Was wäre ein geeignetes Projekt für diese LP5?
+1. Mit den Modulen stehe ich gut, obwohl ich das Modul 295 nicht am meisten mag, aber diese werde ich noch über den Ferien so gut wie möglich bearbeiten.
+2. Allgemein bin ich zufrieden mit meinen Noten. Bis jetzt habe ich keine Note ungenügend gehabt. Trotzdem konnte ich meine Durchschnittsnote gut behalten.
 
-## 23.4.2024
+## 10.1.2025
 
-✍️ Heute habe ich... (50-100 Wörter)
+AN DIESEM TAG WAR ICH KRANK
 
-## 30.4.2024
+## Für den 17.1.2025
 
-- [ ] Erstes Arbeitspaket
-- [ ] ...
-- [ ] Viertes AP
+- [ ] Pferderennen überarbeiten
+- [ ] BlackJack mehrere Spieler
+- [ ] Modul 295 SQL Server verbinden
+- [ ] LB vorarbeiten im Modul 295
 
 ✍️ Heute habe ich... (50-100 Wörter)
 
