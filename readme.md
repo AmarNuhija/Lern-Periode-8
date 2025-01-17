@@ -18,6 +18,11 @@ AN DIESEM TAG WAR ICH KRANK
 - [ ] Modul 295 SQL Server verbinden
 - [ ] Chess-Spiel in C# (über LP 9 hinweg)
 
+## 17.1.2025
+## Leit-Satz
+
+Heute habe ich ein komplett neues Projekt angefangen, dass ich so noch nie angefangen habe. Denn ich habe ein spannendes Programm gesehen mit sehr gut beschriebenen Videos. Denn ich habe ab Heute SchachSpiel angefangen. Ich bin heute schon sehr weit gekommen und denke, das ich jetzt ein gutes Projekt für das Lernatelier habe. Bis jetzt habe ich schon all die Assets, also besser gesagt die Pieces für das Spiel. Auch habe ich Bilder von den einzelnen Figuren schon hochgeladen und das Spielbrett sieht man auch schon. (86 Wörter)
+
 ✍️ Heute habe ich... (50-100 Wörter)
 
 ☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen
