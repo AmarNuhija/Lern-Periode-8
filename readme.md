@@ -16,7 +16,7 @@ AN DIESEM TAG WAR ICH KRANK
 - [ ] Pferderennen überarbeiten
 - [ ] BlackJack mehrere Spieler
 - [ ] Modul 295 SQL Server verbinden
-- [ ] LB vorarbeiten im Modul 295
+- [ ] Visuelen Taschenrechner implementieren
 
 ✍️ Heute habe ich... (50-100 Wörter)
 
