@@ -25,10 +25,10 @@ Heute habe ich ein komplett neues Projekt angefangen, dass ich so noch nie angef
 
 ## Für den 24.1.2025
 
-- [ ] Chess-Game weiter implementiere
+- [x] Chess-Game weiter implementiere
 - [ ] Pferderennen weiter überarbeiten
 - [x] BlackJack Spiel auf ein Stick hochladen, damit ich in BBB weiter implementieren kann.
-- [ ] Modul 295 weiterarbeiten
+- [x] Modul 295 weiterarbeiten
 
 ✍️ Heute habe ich... (50-100 Wörter)
 
