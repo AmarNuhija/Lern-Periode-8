@@ -34,7 +34,3 @@ Heute habe ich ein komplett neues Projekt angefangen, dass ich so noch nie angef
 ## Leit-Satz
 
 Am Anfang habe ich mit BlackJack angefangen. Diesmal habe ich die neuste Version von meinen PC auf einen Stick hochgeladen und damit weitergearbeitet. Das was noch fehlte, war das man bei BlackJack double machen kann. Davor habe ich das schonmal als Arbeitspacket geschrieben aber es ging nicht so gut weil der Betrag nicht weiter runter gegangen ist, als man gedoubled hat. Diesmal habe ich es hingekriegt. Pferderennen habe ich für heute nicht genügend angeschaut weil ich Chess-Game weiter raus gezogen habe, weil dieses Projekt mir heute mehr spass gemacht hat. Pferderennen wird nicht mehr so viel weiterentwickelt, weil ich recht zufrieden damit bin. Am Modul 295 habe ich gestern schon viel daran gearbeitet und deshalb auch weniger Zeit dafür eingeplant, aber dafür das es genau reicht für das was ich gestern nicht machen konnte.(134 Wörter)
-
-✍️ Heute habe ich... (50-100 Wörter)
-
-☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen
