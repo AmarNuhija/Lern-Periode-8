@@ -27,7 +27,7 @@ Heute habe ich ein komplett neues Projekt angefangen, dass ich so noch nie angef
 
 - [ ] Chess-Game weiter implementiere
 - [ ] Pferderennen weiter überarbeiten
-- [ ] BlackJack Spiel auf ein Stick hochladen, damit ich die Originalversion habe
+- [x] BlackJack Spiel auf ein Stick hochladen, damit ich in BBB weiter implementieren kann.
 - [ ] Modul 295 weiterarbeiten
 
 ✍️ Heute habe ich... (50-100 Wörter)
